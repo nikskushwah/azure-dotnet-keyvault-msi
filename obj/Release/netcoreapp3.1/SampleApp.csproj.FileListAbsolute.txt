@@ -1,0 +1,33 @@
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\SampleApp.exe
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\SampleApp.deps.json
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\SampleApp.runtimeconfig.json
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\SampleApp.runtimeconfig.dev.json
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\SampleApp.dll
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\SampleApp.pdb
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\Microsoft.Azure.KeyVault.dll
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\obj\Release\netcoreapp3.1\SampleApp.csprojAssemblyReference.cache
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\obj\Release\netcoreapp3.1\SampleApp.AssemblyInfoInputs.cache
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\obj\Release\netcoreapp3.1\SampleApp.AssemblyInfo.cs
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\obj\Release\netcoreapp3.1\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\obj\Release\netcoreapp3.1\SampleApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\obj\Release\netcoreapp3.1\SampleApp.RazorTargetAssemblyInfo.cache
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\obj\Release\netcoreapp3.1\SampleApp.csproj.CopyComplete
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\obj\Release\netcoreapp3.1\staticwebassets\SampleApp.StaticWebAssets.Manifest.cache
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\obj\Release\netcoreapp3.1\staticwebassets\SampleApp.StaticWebAssets.xml
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\obj\Release\netcoreapp3.1\SampleApp.dll
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\obj\Release\netcoreapp3.1\SampleApp.pdb
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\obj\Release\netcoreapp3.1\SampleApp.genruntimeconfig.cache
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\Properties\serviceDependencies.SampleApp20200522122912 - Web Deploy.json
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\Microsoft.AspNetCore.AzureKeyVault.HostingStartup.dll
+C:\Users\v-nikush\Downloads\AspNetCore.Docs-master\AspNetCore.Docs-master\aspnetcore\security\key-vault-configuration\samples\3.x\SampleApp\bin\Release\netcoreapp3.1\Properties\serviceDependencies.testdotnetcasemi - Web Deploy.json

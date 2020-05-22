@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "restored": true,
+      "restoreTime": "2020-05-22T17:51:38.0283439Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "v_nikushRG"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "1fbe7963-8a53-4dd9-a5cb-cef8f01b77c5"
+    }
+  }
+}
